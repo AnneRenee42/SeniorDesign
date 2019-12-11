@@ -2,10 +2,3 @@
 -> interacts
 
 Cincinnati Zoo Guest -> device -> Kea Birds -> Food
-
-#Lower Level D1
-A Cinncinnati Zoo guest will interact with a device that will signal the Kea birds to interact with a device to play with the guest. If the Kea wins it will recieve food and if it loses it will not get any food.
-
-#Lowest Level D2
-The device will allow guest to interact in a game with the Kea birds. If the Kea birds win they will be rewarded. The goal of this is to see the intellectual ablity of the birds.
-The zoo keepers want to gather as much information as the can on the birds interacting with the device so data collection is also required
