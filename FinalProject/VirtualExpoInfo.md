@@ -9,6 +9,6 @@
 a.	This project intends to allow the Cincinnati zoo visitors to interact with the Kea birds. The system will need to be safe to interact with for both the guests of all ages and for the Kea. The system will be composed of two separate monitors and controllers. The intent of this project to allow for data collection and research about the Kea birds while providing an interactive exhibit at the Zoo.
 ### D.	N/A (not a research project)
 ### E.	Project Links:
- - #### Poster
+ - #### [Poster](FinalProject/KeaPoster.pdf)
  - #### Video Information
  - #### Video Demo
