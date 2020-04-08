@@ -10,5 +10,5 @@ a.	This project intends to allow the Cincinnati zoo visitors to interact with th
 ### D.	N/A (not a research project)
 ### E.	Project Links:
  - #### [Poster](KeaPoster.pdf)
- - #### Video Information
- - #### Video Demo
+ - #### [Video Information](https://youtu.be/pAlJ9Ma-BB8)
+ - #### [Video Demo](https://youtu.be/M-R_xq0FVUY)
