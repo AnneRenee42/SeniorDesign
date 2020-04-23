@@ -5,6 +5,7 @@ Test Case 1 – Setting Up Buttons and Relay
 4.	The inputs on the Raspberry Pi were the buttons. For the pi to read a button press there had to be 3.3VDC on the Pi’s pins. The button was setup so that when the button was pressed the voltage would be disconnected to the pin. Within the code we were looking for the that change in voltage to determine when a button was pressed.
 5.	To start off we setup the code so that when a button was pressed then the relay would turn on. Though the test we could make sure that the pi was controlling the relay as expected. During the test we did see the correct output response we were looking for.
 6.	This test allowed us to see the performance of the pi when a button was pressed. At first during this test one hurdle that had to be overcome was finding a library that allowed us to read the GPIO.
+
 Test Case 2 – Wiring was Correct for the Hardware
 1.	Wiring was Correct for the Hardware
 2.	This test was to determine if all the wiring was correct for the hardware.
