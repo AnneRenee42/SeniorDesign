@@ -15,21 +15,21 @@ Aside from the group effort, I was responsible for creating a timeline and keepi
 ### Fall Hours: Approximately 50 (25 group + 25 indivudal)
 #### As mentioned previously under Annie's hours, we worked together on researching the game (5) and researching bird safe options for the Kea (3). Everyone helped Annie with input in the group assignments throughout the semester as well (4-6). One of my main responsibilities in the fall was to work on the reward system (8), I had help from Zach and Joe in this area as well. We learned from the Zoo staff that they would like to reward the birds in some manner, we discussed a few different options such as a food or some other treat. Ultimately we learned that without tagging the birds with an RFID chip, it will be difficult to reward the birds indivudally. My other responsibility was to research possible behavioral data collection (5-6). Again, we decided without tracking the birds we cannot track indivudal behavioral data. We could however track and record interactions as a whole and learn about the Kea in this manner.
 ### Spring Hours:
-####
-### Year Total:
+#### My responsibility was to find and implement an open source Pong game and edit the code to work for our needs (10). This involved doing research and modifying sections of the written code to be optimized for what we were doing. I was also largely responsiblity for the software testing (10). This included creating test cases, running said cases, documentation, and implementing fixes for any issues that occured. I worked on group and indivudal assignments (5). I also helped with the integrationg testing of our hardware and software components (5).
+### Year Total: Approximately 100 (50 group + 50 individual)
 
 ## Joe Leanza
 ### Fall Hours: Approximately 50 (25 group + 25 indivudal)
 #### I participated in a portion of the group assignments for this semester (4-6). I also helped Jake on researching the rewards system (4). My main responsibility for this semester was to work on designing the console and helping decide what parts needed to be purchased to construct the console (15). I did research into having it 3D printed and after discovering a budgetting issue, determined that we would need to construct a wooden console. I built a new design and determined what parts would need to be purchased. I also helped Jake and Annie visit the Zoo to determine what type of perch would be considered bird safe (3).
-### Spring Hours:
-####
-### Year Total:
+### Spring Hours: Approximately 50 (25 group + 25 indivudal)
+#### I completed my indivdual assignments and helped to update and edit the group assignments (5). Constructing the console with the parts that we ordered was my largest responsibility this semester (12). This involved working with wood tools to cut the pieces down to spec and put everything together. I had to ensure the project was as weatherproof and bird safe as possible. Working with this equipment was a new skill for me. I helped with the hardware and software integration testing (8), including debugging the problems helping to create fixes for both hardware and software. 
+### Year Total: Approximately 100 (50 group + 50 individual)
 
 ## Zach Allison
 ### Fall Hours: Approximately 50 (25 group + 25 indivudal)
 #### Some of my hours came from working on the group assignments (4-6). Alongside this, I worked alongside Jake and Joe on researching the rewards sytem (4). One of my main roles was organizing our budget and ordering all of the appropriate parts (17). This included searching for various parts and ensuring they would all work together as well as completing the reimbursment paperwork. This also includes m y work in designing the electrical schmetaic and determing what parts would be needed.
-### Spring Hours:
-####
-### Year Total:
+### Spring Hours: Approximately 50 (25 group + 25 indivudal)
+#### I was responsible for the electrical hardware portion of our project (12). With help from my group,  I set up the wiring following the elctrical schematic that I created to Raspberry Pi. I had to be sure that everything was correct and functioned properly to protect both the Zoo visitors and the Kea birds so I ahd to ensure everything had a low enough voltage and was working properly. I was responsible for the hardware testing and working with the integration to software testing (8). We worked on debugging and fixing any issues we had until the project was working as whole system. I also did my portion of assignments and working on the group assignments as well (5).
+### Year Total: Approximately 100 (50 group + 50 individual)
 
 
